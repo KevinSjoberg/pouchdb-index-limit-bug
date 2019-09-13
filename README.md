@@ -1,4 +1,5 @@
 # Setup
 
 1. `npm install`
-2. `npm start`
+2. `mkdir -p tmp/dbs`
+3. `npm start`
